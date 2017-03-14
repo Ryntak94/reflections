@@ -1,0 +1,4 @@
+When would you want to create a remote repository rather than keeping all your work local?
+  My understanding is that I'd want all of my work that is to be worked on by more than
+  one person available on github for ease of access. Also, any work that I'd want
+  potential employers to be able to see.
