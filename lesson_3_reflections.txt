@@ -1,4 +1,28 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
   My understanding is that I'd want all of my work that is to be worked on by more than
   one person available on github for ease of access. Also, any work that I'd want
   potential employers to be able to see.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+  When multiple people are working on a single repo it would be best to not
+  update until you are ready.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  It allows you to be able to work offline with the most up to date information
+  from the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+  I honestly have no idea. Github and Git seem to be amazing resources.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+  I would want to build features and other ideas that could break the master
+  branch in a separate branch, where as anything that should immediately go to
+  production, such as bug fixes, should be done in the master branch.
